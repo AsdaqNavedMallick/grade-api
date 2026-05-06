@@ -54,3 +54,7 @@ mvn spring-boot:run
 ```
 
 3. Test in browser
+
+## 👨‍💻 Author
+
+**Asdaq Naved Mallick** — B.Tech CSE, Dev Bhoomi Uttarakhand University
